@@ -3,7 +3,7 @@ name: Packages
 on:
   push:
     branches:
-    - master
+    - rmux
     paths:
     - 'packages/**'
   pull_request:
